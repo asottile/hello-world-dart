@@ -1,0 +1,13 @@
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+name: hello_world_dart
+description: a simple hello world
+version: 1.0.0
+repository: https://github.com/asottile/hello-world-dart
+
+executables:
+    hello-world-dart:
+
+dependencies:
+  ansicolor: ^2.0.1
